@@ -6,7 +6,6 @@ Developer and tech geek
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [mmkhize11@gmail.com](mailto:mmkhize11@gmail.com)
-* 🧠  I'm learning Flutter and Solidity
 * 🤝  I'm open to collaborating on interesting projects and new technologies
 
 ### Skills
